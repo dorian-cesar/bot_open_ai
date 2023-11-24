@@ -1,0 +1,230 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56950906625@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB081BA96E467434B16C5',
+    participant: undefined
+  },
+  messageTimestamp: 1700773780,
+  pushName: 'dorian gonzalez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56950906625'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_74374877-670a-42fb-ba6f-87e8d633e38f',
+  keyword: 'key_cb69d466-8086-49bf-b3ef-fb7f526ba7a4',
+  answer: '🙌 Hola bienvenido soy tu asistente virtual',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '52c3f53cd2d4605fdebe1026691d2227'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2def0b57-c92e-402e-a8d7-3881745886cf',
+  keyword: 'ans_74374877-670a-42fb-ba6f-87e8d633e38f',
+  answer: 'te comparto la siguiente informacion del  proyecto\n' +
+    '👉 *1* ¿Que es RingRing?\n' +
+    '👉 *2* Ofertas\n' +
+    '👉 *3* Consultas varias\n' +
+    '👉 *4* Fotos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd52d6adc86cdf3a8c4e76c72f2f10560'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56950906625@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B52D052447484B6F59',
+    participant: undefined
+  },
+  messageTimestamp: 1700773782,
+  pushName: 'dorian gonzalez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '56950906625'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_09db23df-87d9-44a6-a4e4-ee6f64bd4b87',
+  keyword: 'key_b46f3f1e-bf61-4846-a9f0-63a1581ea6a9',
+  answer: ' Que desaeas saber?:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd56186503d40ff0943fad93f21cbf2b0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56950906625@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08B401067F1272E63CA',
+    participant: undefined
+  },
+  messageTimestamp: 1700773799,
+  pushName: 'dorian gonzalez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'capital de uruguay?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'capital de uruguay?',
+  from: '56950906625'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56950906625@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BA99B71C49CCEBFB0B',
+    participant: undefined
+  },
+  messageTimestamp: 1700773808,
+  pushName: 'dorian gonzalez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'STOP',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'STOP',
+  from: '56950906625'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56950906625@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02294329C455F2A13C1',
+    participant: undefined
+  },
+  messageTimestamp: 1700773812,
+  pushName: 'dorian gonzalez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'menu',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '56950906625'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_74374877-670a-42fb-ba6f-87e8d633e38f',
+  keyword: 'key_cb69d466-8086-49bf-b3ef-fb7f526ba7a4',
+  answer: '🙌 Hola bienvenido soy tu asistente virtual',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '52c3f53cd2d4605fdebe1026691d2227'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2def0b57-c92e-402e-a8d7-3881745886cf',
+  keyword: 'ans_74374877-670a-42fb-ba6f-87e8d633e38f',
+  answer: 'te comparto la siguiente informacion del  proyecto\n' +
+    '👉 *1* ¿Que es RingRing?\n' +
+    '👉 *2* Ofertas\n' +
+    '👉 *3* Consultas varias\n' +
+    '👉 *4* Fotos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd52d6adc86cdf3a8c4e76c72f2f10560'
+}
